@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    font-family: "lato", latin;
+}
+h1{
+	font-weight:800;
+}
+#score {
+	text-align: center;
+	font-size: 24px;
+}
